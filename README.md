@@ -1,5 +1,5 @@
 👋 Hi there, I’m William Oliveira
-👀 I have worked to increase companies' processes and digital transformation.
+👀 I have worked to improve companies' processes and digital transformation.
 💞️ I’m available to collaborate on FullStack JavaScript, Python, ReactJS, and Power Platforms projects.
 My current technology training is related to the DevOps framework
 📫 How to reach me: https://www.williamoliveira.dev/ and wioliveira.devops@outlook.com
